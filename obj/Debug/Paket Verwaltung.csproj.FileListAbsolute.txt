@@ -1,0 +1,20 @@
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\bin\Debug\Paket Verwaltung.exe.config
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\bin\Debug\Paket Verwaltung.exe
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\bin\Debug\Paket Verwaltung.pdb
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\obj\Debug\Paket_Verwaltung.Form1.resources
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\obj\Debug\Paket_Verwaltung.Properties.Resources.resources
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\obj\Debug\Paket Verwaltung.csproj.GenerateResource.cache
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\obj\Debug\Paket Verwaltung.csproj.CoreCompileInputs.cache
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\obj\Debug\Paket Verwaltung.exe
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\obj\Debug\Paket Verwaltung.pdb
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\obj\Debug\Paket_Verwaltung.Form2Login.resources
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\bin\Debug\AForge.dll
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\bin\Debug\AForge.Video.dll
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\bin\Debug\AForge.xml
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\bin\Debug\AForge.Video.xml
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\obj\Debug\Paket_Verwaltung.Form3Kamera.resources
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\obj\Debug\Paket Verwaltung.csproj.CopyComplete
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\obj\Debug\Paket Verwaltung.csproj.AssemblyReference.cache
+C:\Users\medin.krupic\source\repos\Paket Verwaltung\Paket Verwaltung\obj\Debug\Paket Verwaltung.csproj.SuggestedBindingRedirects.cache
